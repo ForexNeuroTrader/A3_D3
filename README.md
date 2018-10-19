@@ -10,7 +10,7 @@ Usage:
 
 login (Putty) to the miner and type:
 
-curl -o AD3_MOD_FNT.sh http://forexneurotrader.com/AD3_MOD_FNT.sh
+curl -k -o AD3_MOD_FNT.sh https://forexneurotrader.com/AD3_MOD_FNT.sh
 
 and then set permission for the script with
 
